@@ -1,0 +1,28 @@
+{
+  "avatarObj": [
+    {
+      "name": "avatar-1",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/1.png"
+    },
+    {
+      "name": "avatar-2",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/2.png"
+    },
+    {
+      "name": "avatar-3",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/3.png"
+    },
+    {
+      "name": "avatar-4",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/4.png"
+    },
+    {
+      "name": "avatar-5",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/5.png"
+    },
+    {
+      "name": "avatar-6",
+      "url": "https://bingeinn-public.s3.amazonaws.com/assets/avatars/6.png"
+    }
+  ]
+}
